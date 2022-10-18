@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.25.2",
+    "sqlite3": "^5.1.2"
+  }
+}
